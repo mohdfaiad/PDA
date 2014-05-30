@@ -1,0 +1,18 @@
+<Assemblies Version="14">
+  <Assembly Name="System.Xml, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac" Cache="bf8d2cab-ab36-44cb-9dd7-ab608d305ec7.ReflectionCache" Timestamp="632611800880000000" />
+  <Assembly Name="System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac" Cache="ac4cd403-2728-4f16-9cbc-4c00395be433.ReflectionCache" Timestamp="632611800860000000" />
+  <Assembly Name="System.Drawing, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac" Cache="ac63a77e-96a7-4934-b1f8-4b8c7b69090c.ReflectionCache" Timestamp="632611800860000000" />
+  <Assembly Name="System.Data, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac" Cache="90e9c7d3-0c3e-486a-83ce-c3cbecdb6913.ReflectionCache" Timestamp="632611800860000000" />
+  <Assembly Name="System, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac" Cache="70f3ae9e-3ba0-4ff9-8647-2fd3042dccf4.ReflectionCache" Timestamp="632611800860000000" />
+  <Assembly Name="mscorlib, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac" Cache="300291a9-0412-4da8-975a-c3ad4d56f3d1.ReflectionCache" Timestamp="632611800860000000" />
+  <Assembly Name="Interop.SSCE, Version=3.5.0.0, Culture=neutral, PublicKeyToken=null" Cache="6d6193b5-aa79-4d32-b39c-61970cd5387a.ReflectionCache" Timestamp="635351662054979157" />
+  <Assembly Name="Interop.SSCE, Version=3.5.0.0" Cache="261d6de6-5373-4edb-92d1-6e3355a71123.ReflectionCache" Timestamp="635351662054979157" />
+  <Assembly Name="System.Windows.Forms.DataGrid, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac, Retargetable=Yes" Cache="0af268f5-e765-435c-a664-6704e35445d3.ReflectionCache" Timestamp="632611800860000000" />
+  <Assembly Name="Microsoft.WindowsCE.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac" Cache="b032c6ef-8cb9-4b6f-a9f8-93ae184dc31e.ReflectionCache" Timestamp="632611800860000000" />
+  <Assembly Name="System.Windows.Forms.DataGrid, Version=2.0.0.0, Culture=neutral, PublicKeyToken=969db8053d3322ac" Cache="f83bd5b7-6508-4316-8b22-81fb1cf9c2f4.ReflectionCache" Timestamp="632611800860000000" />
+  <Assembly Name="System.Data.SqlClient, Version=3.0.3600.0, Culture=neutral, PublicKeyToken=3be235df1c8d2ad3, Retargetable=Yes" Cache="c13c2994-208d-4da3-a26c-fac6dcfb15bc.ReflectionCache" Timestamp="632613273280000000" />
+  <Assembly Name="System.Data.SqlClient, Version=3.0.3600.0, Culture=neutral, PublicKeyToken=3be235df1c8d2ad3" Cache="80b2359a-4b07-491b-8982-b9bf70434f9a.ReflectionCache" Timestamp="632613273280000000" />
+  <Assembly Name="System.Data.SqlServerCe, Version=3.0.3600.0, Culture=neutral, PublicKeyToken=3be235df1c8d2ad3" Cache="562501b6-453f-42ff-ae0e-1b516125e280.ReflectionCache" Timestamp="633269055680000000" />
+  <Assembly Name="System.Data.SqlServerCe.Entity, Version=3.5.1.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" Cache="02270be4-f3a5-4372-a489-19cf97769271.ReflectionCache" Timestamp="635318618516988689" />
+  <Assembly Name="System.Data.SqlServerCe, Version=3.5.0.0, Culture=neutral, PublicKeyToken=3be235df1c8d2ad3" Cache="7934093c-e485-470d-8362-d407bbd80916.ReflectionCache" Timestamp="633269055680000000" />
+</Assemblies>

@@ -1,0 +1,11 @@
+bin\Debug\PDAScan.exe
+bin\Debug\PDAScan.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\PDAScan.Properties.Resources.resources
+obj\Debug\PDAScan.csproj.GenerateResource.Cache
+obj\Debug\PDAScan.exe
+obj\Debug\PDAScan.pdb
+obj\Debug\PDAScan.frmLogin.resources
+obj\Debug\PDAScan.frmMain.resources
+obj\Debug\PDAScan.frmInvChk.resources
+obj\Debug\PDAScan.frmInvIn.resources
